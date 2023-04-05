@@ -1,0 +1,14 @@
+
+.array-container {
+    display: flex;
+    justify-content: center;
+    height: 60vh;
+    align-items: flex-end; 
+  }
+
+.array-bar {
+    width: 5px;
+    background-color: cornflowerblue;
+    display: inline-block;
+    margin: 0 1px;
+}
